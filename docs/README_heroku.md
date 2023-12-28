@@ -43,7 +43,7 @@ This project integrates yt-dlp, gallery-dl, Aria2 + WebUI, qBittorrent + VueTorr
 
  2. Fork this this repository, then click Setting on fork repository page and check Template repository.
  3. Go back to "Code" tab. Then Click new button: Use this template，create a new repository.
- 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/bobby/green> to deploy.
+ 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/namasteindia/apkm> to deploy.
 
 ## <a id="first"></a>First run
 
